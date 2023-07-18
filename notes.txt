@@ -1,0 +1,10 @@
+CREATE PROJECT
+npx nuxi@latest init threads-clone
+
+SUPABASE:
+project password: thisisatest123!
+
+PRISMA:
+npx prisma init
+npx prisma generate
+npx prisma migrate dev --name init
