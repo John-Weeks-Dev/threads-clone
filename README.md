@@ -1,63 +1,43 @@
-# Nuxt 3 Minimal Starter
+# Threads Clone / PWA (threads-clone)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Learn how to build this!
 
-## Setup
+If you'd like a step-by-step guide on how to build this just **CLICK THE IMAGE BELOW**
 
-Make sure to install the dependencies:
+[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/228964328-b0e75187-32de-4b29-8fd0-d1546237b1fd.png)](https://www.youtube.com/watch?v=NtsbjB8QD3Y)
 
-```bash
-# npm
-npm install
+Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
 
-# pnpm
-pnpm install
+**LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
 
-# yarn
-yarn install
+## App Setup (localhost)
+
 ```
+git clone https://github.com/John-Weeks-Dev/threads-clone.git
 
-## Development Server
+npm i
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
 ```
+Follow along with the video for the Supabase setup!
 
-## Production
+You should be good to go!
 
-Build the application for production:
+# PWA Images
+<div>
+  <img width="333" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/2c582ef5-088b-4d25-ad90-fd93dac98fba">
+  <img width="333" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/b7182cd6-0d2c-4a24-b68a-afa27229d926">
+  <img width="333" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/6d6af91d-9397-40c9-98b6-e25731dd4591">
+</div>
 
-```bash
-# npm
-npm run build
+<div>
+  <img width="333" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/3f64673b-219a-4d19-afeb-deb28f8532f6">
+  <img width="333" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/7b29f286-09c1-4d98-87bf-d8e36389eca8">
+</div>
 
-# pnpm
-pnpm run build
+# Web Application Images
 
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<img width="1439" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/2acf4059-0801-4310-bd75-254322272591">
+<img width="1439" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/8c954834-2c21-4b58-b33e-428beea0f610">
+<img width="1439" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/15f385ab-bd63-4523-a5b2-280d274b389e">
+<img width="1439" src="https://github.com/John-Weeks-Dev/threads-clone/assets/108229029/c59e6ecc-4004-438d-adec-4ae7e1263e18">
